@@ -24,3 +24,20 @@ nav a {
 nav a:hover {
   background-color: #555;
 }
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 30px;
+  padding: 10px;
+  border: 1px solid #000000;
+}
+
+footer {
+  background-color: #602cb4;
+  color: #000000;
+  text-align: center;
+  padding: 15px;
+}
